@@ -137,9 +137,9 @@ body {
     text-align: center;
 }
 
-.btn-group{
-    margin-left: 40%;
-    position: absolute;
+#btn-group{
+    margin-left: 38%;
+    position: relative;
 }
 
 #btn-outline{
